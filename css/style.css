@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:100,900);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,600,900);
 
 /*-----------------------------
   Reset
@@ -75,7 +75,7 @@ html  {
 
 body {
     color: #808080;
-    font: 100 1.15rem 'Source Sans Pro', sans-serif;
+    font: 200 1.15rem 'Source Sans Pro', sans-serif;
 }
 
 .info {
@@ -104,7 +104,6 @@ button,
     color: white;
     content: "Learn more on Github";
     font-size: 1rem;
-    font-weight: 100;
     line-height: 0;
     opacity: 0;
     position: absolute;
@@ -141,10 +140,6 @@ h1 {
     margin-left: -3px;
     text-transform: uppercase;
     cursor: default;
-}
-
-h2 {
-  font-weight: 100;
 }
 
 .small {
@@ -184,7 +179,6 @@ button:hover {
     background: #111719 url(../images/browser.svg) top left no-repeat;
     border-radius: 3px;
     display: block;
-    font-weight: 100;
     height: auto;
     margin: 0 auto; 
     max-width: 1346px;
