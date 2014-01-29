@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,600,900);
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,600,900);
 
 /*-----------------------------
   Reset
@@ -234,6 +234,7 @@ button:hover {
 -----------------------------*/
 
 @media only screen and (max-width: 320px) {
+    body { font-weight: 400;}
     button { width: 100%; }
 }
 
