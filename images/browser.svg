@@ -129,12 +129,12 @@
 	<rect x="349" y="48" fill="#F7D540" width="1" height="1"/>
 </g>
 <path fill="#2D4045" d="M100,60l12-32.2c0.6-1.6,2.4-2.8,4-2.8h193c1.7,0,3.5,1.3,4,2.8L325,60H100z"/>
-<polygon fill="#F18260" points="136,50 128,45 120,50 120,34 136,34 "/>
-<text transform="matrix(1 0 0 1 144.8335 47.161)" fill="#808080" font-family="'SourceSansPro-Regular'" font-size="14">Dewey for Chrome</text>
-<text transform="matrix(1 0 0 1 360.142 47.1609)" fill="#808080" font-family="'SourceSansPro-Regular'" font-size="14">Chrome Web Store - Dewey</text>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="482.965" y1="43" x2="522.1667" y2="43">
-	<stop  offset="8.966438e-02" style="stop-color:#202F33;stop-opacity:0"/>
+<text transform="matrix(1 0 0 1 137.8335 47.161)" fill="#808080" font-family="'SourceSansPro-Regular'" font-size="14">Dewey. For Google Chrome™</text>
+<text transform="matrix(1 0 0 1 357.142 47.1609)" fill="#808080" font-family="'SourceSansPro-Regular'" font-size="14">Chrome Web Store - Dewey</text>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="483" y1="19" x2="522.2" y2="19" gradientTransform="matrix(1 0 0 -1 0 62)">
+	<stop  offset="0.0897" style="stop-color:#202F33;stop-opacity:0"/>
 	<stop  offset="0.7969" style="stop-color:#212F34"/>
 </linearGradient>
 <rect x="483" y="32.6" fill="url(#SVGID_1_)" width="39.2" height="20.8"/>
+<polygon fill="#F18260" points="132,49 126,45 120,49 120,36 132,36 "/>
 </svg>
