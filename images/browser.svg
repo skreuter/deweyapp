@@ -136,5 +136,10 @@
 	<stop  offset="0.7969" style="stop-color:#212F34"/>
 </linearGradient>
 <rect x="483" y="32.6" fill="url(#SVGID_1_)" width="39.2" height="20.8"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="270" y1="19" x2="309.2" y2="19" gradientTransform="matrix(1 0 0 -1 0 62)">
+	<stop  offset="0.0897" style="stop-color:#2D4045;stop-opacity:0"/>
+	<stop  offset="0.7969" style="stop-color:#2D4045"/>
+</linearGradient>
+<rect x="270" y="32.6" fill="url(#SVGID_2_)" width="39.2" height="20.8"/>
 <polygon fill="#F18260" points="132,49 126,45 120,49 120,36 132,36 "/>
 </svg>
