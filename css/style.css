@@ -187,6 +187,7 @@ button:hover {
     max-width: 1348px;
     overflow-x: hidden;
     padding: 60px 0 1.4rem 0;
+    position: relative;
 }
 
 .screen:hover{
@@ -199,6 +200,15 @@ button:hover {
 
 .screen video {
     width: 100%;
+}
+
+.store-link {
+  display: block;
+  position: absolute;
+  height: 60px;
+  width: 100%;
+  top: 0;
+  left: 0;
 }
 
 /*-----------------------------
