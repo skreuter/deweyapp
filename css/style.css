@@ -121,7 +121,7 @@ button,
 
 main {
     margin: 0 auto;
-    max-width: 1348px;
+    max-width: 1350px;
     width: 80%;
 }
 
@@ -184,7 +184,7 @@ button:hover {
     display: block;
     height: auto;
     margin: 0 auto; 
-    max-width: 1348px;
+    max-width: 1350px;
     overflow-x: hidden;
     padding: 60px 0 1.4rem 0;
     position: relative;
