@@ -175,8 +175,7 @@ button:hover {
 }
 
 button:active {
-    -webkit-transform: translateY(0);
-    transition: none;
+    background: #D94517
 }
 
 .install {
