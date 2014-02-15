@@ -170,8 +170,23 @@ button {
 }
 
 button:hover {
-    -webkit-transform: translateY(-6px);
+    -webkit-transform: translateY(-3px);
     background: #EF5A37;
+}
+
+button:active {
+    -webkit-transform: translateY(0);
+    transition: none;
+}
+
+.install {
+  background: url(../images/install.svg) no-repeat;
+  width: 24px;
+  height: 20px;
+  display: inline-block;
+  margin-right: 1rem;
+  vertical-align: middle;
+  margin-top: -5px;
 }
 
 /*-----------------------------
