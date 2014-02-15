@@ -175,7 +175,8 @@ button:hover {
 }
 
 button:active {
-    background: #D94517
+    background: #D94517;
+    transition: none;
 }
 
 .install {
