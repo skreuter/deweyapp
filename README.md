@@ -18,9 +18,9 @@ Help us to switch to more [powerful server](https://www.digitalocean.com/pricing
 
 [![PayPal](https://raw.githubusercontent.com/deweyapp/dewey-website/master/docs/images/donate.png "PayPal Donation")](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=outcoldman%40gmail%2ecom&lc=US&item_name=Donation%20for%20supporting%20bookmarks%20application&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
 
-### Bitcoin: 1gyn9f44ha99srgllwggk5mzysax3bpesw
+### Bitcoin: 1GYn9F44ha99SRgLLWggK5MzYSax3bpesw
 
-[![bitcoin:1gyn9f44ha99srgllwggk5mzysax3bpesw](http://i.imgur.com/V9xtJAt.png)](bitcoin:1gyn9f44ha99srgllwggk5mzysax3bpesw)
+[![bitcoin:1GYn9F44ha99SRgLLWggK5MzYSax3bpesw](http://i.imgur.com/V9xtJAt.png)](bitcoin:1GYn9F44ha99SRgLLWggK5MzYSax3bpesw)
 
 ## Creators
 
